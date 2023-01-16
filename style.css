@@ -63,7 +63,7 @@ body {
     font-size: 16px;
     font-weight: 700;
     line-height: 20px;
-    transition: all 0.2s;
+    transition: all 0.3s;
 }
 
 .btn:hover {
@@ -459,7 +459,7 @@ của phần tử cha của nó, tính từ phần tử con cuối cùng:
 }
 
 .footer__top-list a:hover {
-    opacity: 0.8;
+    color: var(--color-primary);
 }
 
 .footer__top-list .footer__top-item:not(:last-child) {
